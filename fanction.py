@@ -1,4 +1,4 @@
-def sum (x,y):
+def sum_one (x,y):
 	if x > y:
 		return y
 def sum_two(x,y,z):
